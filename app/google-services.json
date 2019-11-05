@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "755073499272",
+    "firebase_url": "https://petto-koalisyon2019.firebaseio.com",
+    "project_id": "petto-koalisyon2019",
+    "storage_bucket": "petto-koalisyon2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755073499272:android:61c34cac773cf75e13df3d",
+        "android_client_info": {
+          "package_name": "com.Koal.PettoApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755073499272-nfeoi1klagpdk0s65nbs18a4lof3436u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Koal.PettoApplication",
+            "certificate_hash": "a795aeac3d65fa66238d2ffd096d2be78334901c"
+          }
+        },
+        {
+          "client_id": "755073499272-llta8g77595gc77r4otkro581hvni27v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Koal.PettoApplication",
+            "certificate_hash": "4695491cb4000eaee79eb6a3bfcc4ebb54b9d544"
+          }
+        },
+        {
+          "client_id": "755073499272-1gko1o4873294oo3nkd35eiqtd2e7chf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvYvdK7b0JHhjC8tZ_euIPvvWJFp5ZfCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755073499272-1gko1o4873294oo3nkd35eiqtd2e7chf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755073499272-qkf1cora6vk0sm5a9ljmk79blmhopl94.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Koal.PettoApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
